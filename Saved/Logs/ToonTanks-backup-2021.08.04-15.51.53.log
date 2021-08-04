@@ -1,0 +1,1349 @@
+﻿Log file open, 08/04/21 11:41:03
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: ToonTanks
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 26 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.178147
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/danny/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-9700F CPU @ 3.00GHz, GPU: NVIDIA GeForce RTX 2070
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [W:/UdemyCourses/Unreal Engine C++/ToonTanks/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.08.04-15.41.03:709][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.08.04-15.41.03:709][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.08.04-15.41.03:709][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [W:/UdemyCourses/Unreal Engine C++/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.08.04-15.41.03:709][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.08.04-15.41.03:709][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2021.08.04-15.41.03:709][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.08.04-15.41.03:709][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [W:/UdemyCourses/Unreal Engine C++/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.08.04-15.41.03:709][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [W:/UdemyCourses/Unreal Engine C++/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.08.04-15.41.03:709][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.08.04-15.41.03:709][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.08.04-15.41.03:709][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.08.04-15.41.03:709][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.08.04-15.41.03:709][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.08.04-15.41.03:709][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.08.04-15.41.03:709][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.08.04-15.41.03:709][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.08.04-15.41.03:709][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.08.04-15.41.03:709][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.08.04-15.41.03:709][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.08.04-15.41.03:709][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.08.04-15.41.03:709][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.08.04-15.41.03:709][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.08.04-15.41.03:709][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [W:/UdemyCourses/Unreal Engine C++/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.08.04-15.41.03:709][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.08.04-15.41.03:709][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.08.04-15.41.03:709][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.08.04-15.41.03:709][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.08.04-15.41.03:709][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.08.04-15.41.03:709][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.08.04-15.41.03:709][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.08.04-15.41.03:709][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.08.04-15.41.03:709][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.08.04-15.41.03:709][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.08.04-15.41.03:709][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.08.04-15.41.03:709][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.08.04-15.41.03:709][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.08.04-15.41.03:709][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.08.04-15.41.03:709][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [W:/UdemyCourses/Unreal Engine C++/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.08.04-15.41.03:709][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [W:/UdemyCourses/Unreal Engine C++/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.08.04-15.41.03:736][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [W:/UdemyCourses/Unreal Engine C++/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.08.04-15.41.03:736][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.04-15.41.03:736][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.04-15.41.03:736][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [W:/UdemyCourses/Unreal Engine C++/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.08.04-15.41.03:736][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.04-15.41.03:736][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [W:/UdemyCourses/Unreal Engine C++/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.08.04-15.41.03:736][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.04-15.41.03:736][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.04-15.41.03:736][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.04-15.41.03:736][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.04-15.41.03:736][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.04-15.41.03:736][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.04-15.41.03:736][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.04-15.41.03:736][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.04-15.41.03:736][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.04-15.41.03:736][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.04-15.41.03:736][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.04-15.41.03:736][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.04-15.41.03:736][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.04-15.41.03:736][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.04-15.41.03:736][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.04-15.41.03:736][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.04-15.41.03:736][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.04-15.41.03:736][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.04-15.41.03:736][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [W:/UdemyCourses/Unreal Engine C++/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.08.04-15.41.03:736][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.04-15.41.03:736][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.04-15.41.03:736][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.04-15.41.03:736][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.04-15.41.03:736][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.04-15.41.03:736][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.04-15.41.03:736][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.04-15.41.03:736][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.04-15.41.03:736][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.04-15.41.03:736][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.04-15.41.03:736][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.04-15.41.03:736][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.04-15.41.03:736][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.04-15.41.03:736][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.04-15.41.03:736][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.04-15.41.03:736][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.04-15.41.03:736][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.04-15.41.03:736][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [W:/UdemyCourses/Unreal Engine C++/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [W:/UdemyCourses/Unreal Engine C++/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [W:/UdemyCourses/Unreal Engine C++/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [W:/UdemyCourses/Unreal Engine C++/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.08.04-15.41.03:737][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.04-15.41.03:737][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.08.04-15.41.03:737][  0]LogHAL: Display: Platform has ~ 16 GB [17092481024 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.08.04-15.41.03:737][  0]LogInit: Going up to parent DeviceProfile []
+[2021.08.04-15.41.03:737][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [W:/UdemyCourses/Unreal Engine C++/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [W:/UdemyCourses/Unreal Engine C++/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [W:/UdemyCourses/Unreal Engine C++/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [W:/UdemyCourses/Unreal Engine C++/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.04-15.41.03:737][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [W:/UdemyCourses/Unreal Engine C++/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [W:/UdemyCourses/Unreal Engine C++/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [W:/UdemyCourses/Unreal Engine C++/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [W:/UdemyCourses/Unreal Engine C++/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.08.04-15.41.03:738][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.08.04-15.41.03:739][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.08.04-15.41.03:739][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.08.04-15.41.03:739][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.08.04-15.41.03:739][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [W:/UdemyCourses/Unreal Engine C++/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.08.04-15.41.03:739][  0]LogInit: Computer: DESKTOP-QHLO9HK
+[2021.08.04-15.41.03:739][  0]LogInit: User: danny
+[2021.08.04-15.41.03:739][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.08.04-15.41.03:739][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.08.04-15.41.03:739][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.08.04-15.41.03:739][  0]LogMemory: Platform Memory Stats for Windows
+[2021.08.04-15.41.03:739][  0]LogMemory: Process Physical Memory: 130.84 MB used, 130.85 MB peak
+[2021.08.04-15.41.03:739][  0]LogMemory: Process Virtual Memory: 109.00 MB used, 109.00 MB peak
+[2021.08.04-15.41.03:739][  0]LogMemory: Physical Memory: 8971.07 MB used,  7329.59 MB free, 16300.66 MB total
+[2021.08.04-15.41.03:739][  0]LogMemory: Virtual Memory: 134196080.00 MB used,  21651.14 MB free, 134217728.00 MB total
+[2021.08.04-15.41.03:742][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.08.04-15.41.03:769][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.08.04-15.41.03:770][  0]LogInit: Using OS detected language (en-US).
+[2021.08.04-15.41.03:770][  0]LogInit: Using OS detected locale (en-US).
+[2021.08.04-15.41.03:774][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.08.04-15.41.03:909][  0]LogInit: Setting process to per monitor DPI aware
+[2021.08.04-15.41.03:916][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.04-15.41.04:276][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.08.04-15.41.04:276][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.08.04-15.41.04:526][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.08.04-15.41.04:526][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.08.04-15.41.04:526][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.08.04-15.41.04:526][  0]LogD3D11RHI: D3D11 adapters:
+[2021.08.04-15.41.04:606][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070' (Feature Level 11_0)
+[2021.08.04-15.41.04:606][  0]LogD3D11RHI:       8031/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.08.04-15.41.04:607][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.08.04-15.41.04:607][  0]LogD3D11RHI:       0/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.08.04-15.41.04:607][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.08.04-15.41.04:612][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.08.04-15.41.04:612][  0]LogD3D11RHI:     GPU DeviceId: 0x1f02 (for the marketing name, search the web for "GPU Device Id")
+[2021.08.04-15.41.04:612][  0]LogWindows: EnumDisplayDevices:
+[2021.08.04-15.41.04:612][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070' (P:1 D:1)
+[2021.08.04-15.41.04:612][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070' (P:0 D:1)
+[2021.08.04-15.41.04:612][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2021.08.04-15.41.04:613][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2021.08.04-15.41.04:613][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.08.04-15.41.04:613][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070
+[2021.08.04-15.41.04:613][  0]LogD3D11RHI:   Driver Version: 465.89 (internal:27.21.14.6589, unified:465.89)
+[2021.08.04-15.41.04:613][  0]LogD3D11RHI:      Driver Date: 3-25-2021
+[2021.08.04-15.41.04:613][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2021.08.04-15.41.04:677][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.08.04-15.41.04:677][  0]LogD3D11RHI: Async texture creation enabled
+[2021.08.04-15.41.04:677][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.08.04-15.41.04:679][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061087).
+[2021.08.04-15.41.04:702][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.08.04-15.41.04:703][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.08.04-15.41.04:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.08.04-15.41.04:925][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.08.04-15.41.04:925][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.08.04-15.41.04:925][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.08.04-15.41.04:926][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.08.04-15.41.04:926][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.08.04-15.41.04:926][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.08.04-15.41.04:926][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.08.04-15.41.04:926][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.08.04-15.41.04:926][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.08.04-15.41.04:926][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.08.04-15.41.04:942][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.08.04-15.41.04:942][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.08.04-15.41.04:950][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.08.04-15.41.04:957][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.08.04-15.41.04:964][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.08.04-15.41.04:970][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.08.04-15.41.04:977][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.08.04-15.41.04:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.08.04-15.41.04:989][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.08.04-15.41.05:010][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.08.04-15.41.05:010][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.08.04-15.41.05:016][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.08.04-15.41.05:023][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.08.04-15.41.05:029][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.08.04-15.41.05:035][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.08.04-15.41.05:047][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.08.04-15.41.05:047][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.08.04-15.41.05:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.08.04-15.41.05:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.08.04-15.41.05:068][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.08.04-15.41.05:074][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.08.04-15.41.05:074][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.08.04-15.41.05:079][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.08.04-15.41.05:119][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.08.04-15.41.05:119][  0]LogShaderCompilers: Guid format shader working directory is 2 characters bigger than the processId version (W:/UdemyCourses/Unreal Engine C++/ToonTanks/Intermediate/Shaders/WorkingDirectory/21172/).
+[2021.08.04-15.41.05:119][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/danny/AppData/Local/Temp/UnrealShaderWorkingDir/C4A574724010631181679C8E7784628F/'.
+[2021.08.04-15.41.05:119][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.08.04-15.41.05:119][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.08.04-15.41.05:737][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.08.04-15.41.05:778][  0]LogDerivedDataCache: Loaded boot cache 0.04s 77MB C:/Users/danny/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.08.04-15.41.05:778][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/danny/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.08.04-15.41.05:779][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file W:/UdemyCourses/Unreal Engine C++/ToonTanks/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.08.04-15.41.05:779][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.08.04-15.41.05:779][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file W:/UdemyCourses/Unreal Engine C++/ToonTanks/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.04-15.41.05:779][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.08.04-15.41.05:788][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.08.04-15.41.05:788][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.04-15.41.05:788][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.08.04-15.41.05:795][  0]LogDerivedDataCache: Speed tests for C:/Users/danny/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.08.04-15.41.05:795][  0]LogDerivedDataCache: Display: Performance to C:/Users/danny/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=323.41MBs, RandomWriteSpeed=243.07MBs. Assigned SpeedClass 'Local'
+[2021.08.04-15.41.05:795][  0]LogDerivedDataCache: Using Local data cache path C:/Users/danny/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.08.04-15.41.05:795][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.08.04-15.41.05:795][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.08.04-15.41.05:833][  0]LogSlate: Using FreeType 2.10.0
+[2021.08.04-15.41.05:833][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.08.04-15.41.05:851][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2021.08.04-15.41.06:023][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.04-15.41.06:023][  0]LogInit: Active device profile: [000001A7831D5E00][000001A7F889BC40 49] Windows
+[2021.08.04-15.41.06:023][  0]LogInit: Profiles: [000001A7831D5E00][000001A7F889BC40 49] Windows, [000001A783226400][000001A782718100 49] WindowsNoEditor, [000001A7831D7800][000001A78271C280 49] WindowsServer, [000001A783226300][000001A782720400 49] WindowsClient, [000001A7831D6D00][000001A782728580 49] IOS, [000001A783224900][000001A78272C700 49] iPadAir, [000001A7831D7900][000001A782730880 49] iPadAir2, [000001A782FEB200][000001A782740B40 49] IPadPro, [000001A782FEB300][000001A78273CB80 49] iPadAir3, [000001A7831D4200][000001A782744D00 49] iPadAir4, [000001A782FEB500][000001A782748E80 49] iPadMini2, [000001A7831D4E00][000001A782759000 49] iPadMini3, [000001A782FE9400][000001A78275D180 49] iPadMini4, [000001A7831D5000][000001A782761300 49] iPadMini5, [000001A783052B00][000001A7F889F580 49] iPhone6, [000001A783052C00][000001A7827655C0 49] iPodTouch6, [000001A782FEBC00][000001A78276D800 49] iPhone7, [000001A782FEBB00][000001A782769840 49] iPodTouch7, [000001A783050E00][000001A782789980 49] iPhone5S, [000001A782FEBF00][000001A782791B00 49] iPhone6Plus, [000001A783051200][000001A782795C80 49] iPhone6S, [000001A782FEA800][000001A782798140 49] iPhone6SPlus, [000001A783052F00][000001A78279C2C0 49] iPhone7Plus, [000001A782FEB800][000001A7827C0440 49] iPhoneSE, [000001A783053200][000001A7827C45C0 49] iPhone8, [000001A782FE9600][000001A7827C8740 49] iPhone8Plus, [000001A783051F00][000001A7827CC8C0 49] iPhoneX, [000001A782FE9D00][000001A7827D0A40 49] iPhoneXS, [000001A783050300][000001A7827D4BC0 49] iPhoneXSMax, [000001A782FE8600][000001A7827D8D40 49] iPhoneXR, [000001A783053000][000001A7827DCEC0 49] iPhone11, [000001A782FEA500][000001A78280D040 49] iPhone11Pro, [000001A783050600][000001A7838211C0 49] iPhone11ProMax, [000001A782FE9C00][000001A783825340 49] iPhoneSE2, [000001A783051400][000001A7838294C0 49] iPhone12Mini, [000001A782FE9100][000001A78382D640 49] iPhone12, [000001A783052A00][000001A78278D780 49] iPhone12Pro, [000001A782FE8200][000001A7838318C0 49] iPhone12ProMax, [000001A783051B00][000001A783835A00 49] iPadPro105, [000001A782FE9800][000001A78383DB80 49] iPadPro129, [000001A783050D00][000001A783841D00 49] iPadPro97, [000001A783225300][000001A7838441C0 49] iPadPro2_129, [000001A782FEA100][000001A783848340 49] iPad5, [000001A783225900][000001A78384C4C0 49] iPad6, [000001A782FE9000][000001A783850640 49] iPad7, [000001A783224800][000001A7838547C0 49] iPad8, [000001A782FE9300][000001A783858940 49] iPadPro11, [000001A783226600][000001A78385CAC0 49] iPadPro2_11, [000001A782FE8E00][000001A783860C40 49] iPadPro3_129, [000001A783051000][000001A783864DC0 49] iPadPro4_129, [000001A783225F00][000001A783868F40 49] AppleTV, [000001A783051C00][000001A78386D0C0 49] AppleTV4K, [000001A783224D00][000001A783871240 49] TVOS, [000001A783053D00][000001A7838753C0 49] Mac, [000001A783226C00][000001A783879540 49] MacClient, [000001A783052800][000001A78387D6C0 49] MacNoEditor, [000001A783227A00][000001A783839800 49] MacServer, [000001A782FE8400][000001A783881940 49] Linux, [000001A783226700][000001A783885A80 49] LinuxNoEditor, [000001A782FEB600][000001A78388DC00 49] LinuxAArch64NoEditor, [000001A783226000][000001A7838900C0 49] LinuxClient, [000001A782FEB400][000001A783894240 49] LinuxAArch64Client, [000001A783225C00][000001A7838983C0 49] LinuxServer, [000001A782FE9F00][000001A78389C540 49] LinuxAArch64Server, [000001A783226D00][000001A7838A06C0 49] Android, [000001A782FEB700][000001A7838A4840 49] Android_Low, [000001A783227400][000001A7838A89C0 49] Android_Mid, [000001A782FE9900][000001A7838ACB40 49] Android_High, [000001A783227700][000001A7838B0CC0 49] Android_Default, [000001A782FEB100][000001A7838B4E40 49] Android_Adreno4xx, [000001A783224200][000001A7838B8FC0 49] Android_Adreno5xx_Low, [000001A782FE8900][000001A7838BD140 49] Android_Adreno5xx, [000001A783227B00][000001A7838C12C0 49] Android_Adreno6xx, [000001A782FE8C00][000001A7838C5440 49] Android_Adreno6xx_Vulkan, [000001A783227900][000001A7838C95C0 49] Android_Mali_T6xx, [000001A782FE9E00][000001A7838CD740 49] Android_Mali_T7xx, [000001A783227F00][000001A783889880 49] Android_Mali_T8xx, [000001A782FE8300][000001A7838D19C0 49] Android_Mali_G71, [000001A783226800][000001A7838D5B00 49] Android_Mali_G72, [000001A782FEA700][000001A7838D9C40 49] Android_Mali_G72_Vulkan, [000001A783225000][000001A7838E0100 49] Android_Mali_G76, [000001A782FE9B00][000001A7838E4280 49] Android_Mali_G76_Vulkan, [000001A783225D00][000001A7838E8400 49] Android_Mali_G77, [000001A782FE9200][000001A7838EC580 49] Android_Mali_G77_Vulkan, [000001A783224F00][000001A7838F0700 49] Android_Vulkan_SM5, [000001A782FEB900][000001A7838F4880 49] Android_PowerVR_G6xxx, [000001A783225100][000001A7838F8A00 49] Android_PowerVR_GT7xxx, [000001A782FEAC00][000001A7838FCB80 49] Android_PowerVR_GE8xxx, [000001A783225800][000001A783900D00 49] Android_PowerVR_GM9xxx, [000001A782FEAF00][000001A783904E80 49] Android_PowerVR_GM9xxx_Vulkan, [000001A783225A00][000001A783909000 49] Android_TegraK1, [000001A782FE8A00][000001A78390D180 49] Android_Unknown_Vulkan, [000001A783225600][000001A783911300 49] Lumin, [000001A782FEBA00][000001A783915480 49] Lumin_Desktop, [000001A783224100][000001A783919600 49] HoloLens, 
+[2021.08.04-15.41.06:104][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.08.04-15.41.06:104][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.08.04-15.41.06:104][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.08.04-15.41.06:104][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.08.04-15.41.06:104][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.08.04-15.41.06:153][  0]LogNetVersion: ToonTanks 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2091550394)
+[2021.08.04-15.41.06:469][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.08.04-15.41.06:499][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.030337 seconds
+[2021.08.04-15.41.06:504][  0]LogUObjectArray: 16826 objects as part of root set at end of initial load.
+[2021.08.04-15.41.06:504][  0]LogUObjectAllocator: 4208096 out of 0 bytes used by permanent object pool.
+[2021.08.04-15.41.06:504][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.08.04-15.41.06:768][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.08.04-15.41.06:771][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.08.04-15.41.06:859][  0]SourceControl: Source control is disabled
+[2021.08.04-15.41.06:859][  0]SourceControl: Source control is disabled
+[2021.08.04-15.41.06:861][  0]SourceControl: Source control is disabled
+[2021.08.04-15.41.06:863][  0]SourceControl: Source control is disabled
+[2021.08.04-15.41.06:882][  0]SourceControl: Source control is disabled
+[2021.08.04-15.41.06:886][  0]LogUProjectInfo: Found projects:
+[2021.08.04-15.41.07:029][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.08.04-15.41.07:041][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.04-15.41.07:041][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.04-15.41.07:076][  0]LogCollectionManager: Loaded 0 collections in 0.001060 seconds
+[2021.08.04-15.41.07:093][  0]LogFileCache: Scanning file cache for directory 'W:/UdemyCourses/Unreal Engine C++/ToonTanks/Saved/Collections/' took 0.00s
+[2021.08.04-15.41.07:093][  0]LogFileCache: Scanning file cache for directory 'W:/UdemyCourses/Unreal Engine C++/ToonTanks/Content/Developers/danny/Collections/' took 0.00s
+[2021.08.04-15.41.07:093][  0]LogFileCache: Scanning file cache for directory 'W:/UdemyCourses/Unreal Engine C++/ToonTanks/Content/Collections/' took 0.00s
+[2021.08.04-15.41.07:093][  0]LogOcInput: OculusInput pre-init called
+[2021.08.04-15.41.07:101][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.08.04-15.41.07:101][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.08.04-15.41.07:138][  0]LogEngine: Initializing Engine...
+[2021.08.04-15.41.07:138][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.08.04-15.41.07:138][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.08.04-15.41.07:139][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.08.04-15.41.07:222][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.08.04-15.41.07:227][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.08.04-15.41.07:238][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.08.04-15.41.07:240][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.08.04-15.41.07:240][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.08.04-15.41.07:240][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.04-15.41.07:240][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.04-15.41.07:240][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.04-15.41.07:240][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.04-15.41.07:240][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.04-15.41.07:240][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.04-15.41.07:240][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.04-15.41.07:240][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.04-15.41.07:241][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.04-15.41.07:241][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.04-15.41.07:250][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.04-15.41.07:250][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.08.04-15.41.07:271][  0]LogAudioMixer: Display: Using Audio Device Speakers (PRO X Wireless Gaming Headset)
+[2021.08.04-15.41.07:275][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.04-15.41.07:276][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.04-15.41.07:276][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.04-15.41.07:277][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.04-15.41.07:277][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.04-15.41.07:277][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.04-15.41.07:278][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.04-15.41.07:278][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.04-15.41.07:278][  0]LogInit: FAudioDevice initialized.
+[2021.08.04-15.41.07:278][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.08.04-15.41.07:278][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.08.04-15.41.07:313][  0]LogDerivedDataCache: Saved boot cache 0.04s 77MB C:/Users/danny/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.08.04-15.41.07:314][  0]LogInit: Texture streaming: Enabled
+[2021.08.04-15.41.07:322][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2021.08.04-15.41.07:325][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.08.04-15.41.07:325][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={DC1B839C-4102-1774-3A6E-5796AE40F6CE}
+[2021.08.04-15.41.07:325][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.08.04-15.41.07:327][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.08.04-15.41.07:345][  0]LogInit: Transaction tracking system initialized
+[2021.08.04-15.41.07:360][  0]BlueprintLog: New page: Editor Load
+[2021.08.04-15.41.07:405][  0]LocalizationService: Localization service is disabled
+[2021.08.04-15.41.07:420][  0]TimingProfiler: Initialize
+[2021.08.04-15.41.07:420][  0]TimingProfiler: OnSessionChanged
+[2021.08.04-15.41.07:420][  0]LoadingProfiler: Initialize
+[2021.08.04-15.41.07:420][  0]LoadingProfiler: OnSessionChanged
+[2021.08.04-15.41.07:420][  0]NetworkingProfiler: Initialize
+[2021.08.04-15.41.07:420][  0]NetworkingProfiler: OnSessionChanged
+[2021.08.04-15.41.07:420][  0]MemoryProfiler: Initialize
+[2021.08.04-15.41.07:420][  0]MemoryProfiler: OnSessionChanged
+[2021.08.04-15.41.07:509][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.08.04-15.41.07:509][  0]LogCook: Display: Mobile HDR setting 1
+[2021.08.04-15.41.07:589][  0]LogFileCache: Scanning file cache for directory 'W:/UdemyCourses/Unreal Engine C++/ToonTanks/Content/' took 0.00s
+[2021.08.04-15.41.07:738][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.08.04-15.41.07:740][  0]SourceControl: Source control is disabled
+[2021.08.04-15.41.07:740][  0]LogUnrealEdMisc: Loading editor; pre map load, took 4.652
+[2021.08.04-15.41.07:740][  0]Cmd: MAP LOAD FILE="W:/UdemyCourses/Unreal Engine C++/ToonTanks/Content/Maps/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.04-15.41.07:740][  0]LightingResults: New page: Lighting Build
+[2021.08.04-15.41.07:740][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.08.04-15.41.07:741][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.04-15.41.07:741][  0]MapCheck: New page: Map Check
+[2021.08.04-15.41.07:741][  0]LightingResults: New page: Lighting Build
+[2021.08.04-15.41.07:746][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.08.04-15.41.07:797][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main'.
+[2021.08.04-15.41.07:798][  0]LogAIModule: Creating AISystem for world Main
+[2021.08.04-15.41.07:801][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.04-15.41.07:810][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.08.04-15.41.07:810][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.04-15.41.07:810][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.085ms to complete.
+[2021.08.04-15.41.07:810][  0]LogFileHelpers: Loading map 'Main' took 0.070
+[2021.08.04-15.41.07:811][  0]LogUnrealEdMisc: Total Editor Startup Time, took 4.724
+[2021.08.04-15.41.07:967][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.04-15.41.07:971][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.04-15.41.07:976][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.04-15.41.07:981][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.04-15.41.07:991][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0071 seconds. Added 3603 classes and 862 folders.
+[2021.08.04-15.41.07:992][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.08.04-15.41.07:993][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.04-15.41.07:993][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-15.41.07:993][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.04-15.41.07:993][  0]LogPakFile: OnPakFileMounted2Time == 0.000006
+[2021.08.04-15.41.07:994][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.08.04-15.41.07:994][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-15.41.07:994][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.08.04-15.41.07:994][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.08.04-15.41.07:994][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.08.04-15.41.07:994][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-15.41.07:994][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.08.04-15.41.07:994][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.08.04-15.41.07:995][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.04-15.41.07:995][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-15.41.07:995][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.04-15.41.07:995][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.08.04-15.41.07:995][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.08.04-15.41.07:995][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-15.41.07:995][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.08.04-15.41.07:995][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.08.04-15.41.07:995][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.08.04-15.41.07:995][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-15.41.07:995][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.08.04-15.41.07:995][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.08.04-15.41.07:996][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.08.04-15.41.07:996][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-15.41.07:996][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.08.04-15.41.07:996][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.08.04-15.41.07:996][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.08.04-15.41.07:996][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-15.41.07:996][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.08.04-15.41.07:996][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.08.04-15.41.07:996][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.04-15.41.07:996][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-15.41.07:996][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.04-15.41.07:997][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.08.04-15.41.07:997][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.08.04-15.41.07:997][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-15.41.07:997][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.08.04-15.41.07:997][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.08.04-15.41.07:997][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.08.04-15.41.07:997][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-15.41.07:997][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.08.04-15.41.07:997][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.08.04-15.41.07:998][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.04-15.41.07:998][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-15.41.07:998][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.04-15.41.07:998][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.08.04-15.41.07:998][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.04-15.41.07:998][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-15.41.07:998][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.04-15.41.07:998][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.08.04-15.41.07:998][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.04-15.41.07:999][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-15.41.07:999][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.04-15.41.07:999][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.08.04-15.41.07:999][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.08.04-15.41.07:999][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-15.41.07:999][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.08.04-15.41.07:999][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.08.04-15.41.07:999][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.04-15.41.07:999][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-15.41.07:999][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.04-15.41.07:999][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.08.04-15.41.08:000][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.08.04-15.41.08:000][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-15.41.08:000][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.08.04-15.41.08:000][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.08.04-15.41.08:000][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.04-15.41.08:000][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-15.41.08:000][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.04-15.41.08:000][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.08.04-15.41.08:000][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.04-15.41.08:001][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-15.41.08:001][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.04-15.41.08:001][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.08.04-15.41.08:001][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.04-15.41.08:001][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-15.41.08:001][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.04-15.41.08:001][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.08.04-15.41.08:001][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.04-15.41.08:001][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-15.41.08:001][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.04-15.41.08:001][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.08.04-15.41.08:002][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.04-15.41.08:002][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-15.41.08:002][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.04-15.41.08:002][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.08.04-15.41.08:002][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.08.04-15.41.08:002][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-15.41.08:002][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.08.04-15.41.08:002][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.08.04-15.41.08:003][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.04-15.41.08:003][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-15.41.08:003][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.04-15.41.08:003][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.08.04-15.41.08:003][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.04-15.41.08:003][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-15.41.08:003][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.04-15.41.08:003][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.08.04-15.41.08:004][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.08.04-15.41.08:004][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.04-15.41.08:004][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.08.04-15.41.08:004][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.08.04-15.41.08:040][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.08.04-15.41.08:363][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.08.04-15.41.08:413][  0]LogSlate: Took 0.000116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.08.04-15.41.08:415][  0]LogSlate: Took 0.000092 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.08.04-15.41.08:417][  0]LogSlate: Took 0.000120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.08.04-15.41.08:557][  0]LogRenderer: Reallocating scene render targets to support 1496x668 Format 10 NumSamples 1 (Frame:1).
+[2021.08.04-15.41.08:609][  0]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.08.04-15.41.08:654][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.08.04-15.41.08:654][  0]LogLoad: (Engine Initialization) Total time: 5.57 seconds
+[2021.08.04-15.41.08:654][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.08.04-15.41.08:654][  0]LogInit: First time updating LLM stats...
+[2021.08.04-15.41.08:691][  0]LogAssetRegistry: Asset discovery search completed in 2.8393 seconds
+[2021.08.04-15.41.08:692][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.08.04-15.41.08:692][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.08.04-15.41.10:019][  4]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.08.04-15.41.13:821][140]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.04-15.41.14:290][189]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.08.04-15.41.32:904][327]LogMaterial: Display: Missing cached shader map for material GrassTexture_Mat, compiling. 
+[2021.08.04-15.41.32:932][327]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.08.04-15.41.32:932][327]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.04-15.41.32:932][327]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.08.04-15.41.32:935][327]LogMaterial: Display: Material /Game/Assets/Textures/GrassTexture_Mat.GrassTexture_Mat needed to have new flag set bUsedWithStaticLighting !
+[2021.08.04-15.41.32:936][327]LogMaterial: Display: Missing cached shader map for material GrassTexture_Mat, compiling. 
+[2021.08.04-15.41.32:958][327]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2021.08.04-15.41.34:677][475]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2021.08.04-15.41.34:874][498]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2021.08.04-15.41.34:945][506]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.04-15.41.35:960][617]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.08.04-15.41.36:262][651]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.08.04-15.41.36:470][675]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.04-15.41.36:541][683]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.08.04-15.41.43:103][457]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Textures/GrassTexture_Mat.GrassTexture_Mat
+[2021.08.04-15.41.43:106][457]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MaterialEditor' in 0.0002 seconds. Added 3 classes and 0 folders.
+[2021.08.04-15.41.43:108][457]LogMaterial: Display: Missing cached shader map for material GrassTexture_Mat, compiling. 
+[2021.08.04-15.41.43:383][457]LogMaterial: Display: Missing cached shader map for material GrassTexture_Mat, compiling. 
+[2021.08.04-15.41.43:393][457]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2021.08.04-15.41.43:393][457]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.08.04-15.41.43:393][457]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.08.04-15.41.43:393][457]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.08.04-15.41.43:394][457]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.08.04-15.41.43:412][457]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.08.04-15.41.43:761][468]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2021.08.04-15.41.43:899][481]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.08.04-15.41.43:930][484]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2021.08.04-15.41.44:057][494]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.08.04-15.41.44:393][521]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2021.08.04-15.41.44:404][522]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2021.08.04-15.41.44:414][523]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.08.04-15.41.44:487][530]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.08.04-15.41.44:784][551]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.08.04-15.41.44:874][559]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.08.04-15.41.44:994][569]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.08.04-15.41.45:033][572]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.08.04-15.41.45:034][572]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2021.08.04-15.41.45:034][572]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.08.04-15.41.45:034][572]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.08.04-15.41.45:034][572]MaterialEditorStats: Texture samplers: 3/16
+[2021.08.04-15.41.45:034][572]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.08.04-15.41.45:034][572]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.08.04-15.41.45:045][572]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.08.04-15.42.14:627][810]LogMaterialEditor: Saving and Compiling material GrassTexture_Mat
+[2021.08.04-15.42.14:658][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Textures/GrassTexture_Mat" FILE="W:/UdemyCourses/Unreal Engine C++/ToonTanks/Content/Assets/Textures/GrassTexture_Mat.uasset" SILENT=true
+[2021.08.04-15.42.14:663][810]LogSavePackage: Moving 'W:/UdemyCourses/Unreal Engine C++/ToonTanks/Saved/GrassTexture_MatFF2818CF4836268DEEE079B7FC0906FF.tmp' to 'W:/UdemyCourses/Unreal Engine C++/ToonTanks/Content/Assets/Textures/GrassTexture_Mat.uasset'
+[2021.08.04-15.42.14:672][810]AssetCheck: New page: Asset Save: GrassTexture_Mat
+[2021.08.04-15.42.14:673][810]LogContentValidation: Display: Validating Material /Game/Assets/Textures/GrassTexture_Mat.GrassTexture_Mat
+[2021.08.04-15.42.16:968][  6]LogSlate: Window 'GrassTexture_Mat' being destroyed
+[2021.08.04-15.42.39:990][652]LogContentBrowser: Attempting asset rename: GrassTexture_Mat -> GrassFloor_Material
+[2021.08.04-15.42.40:044][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Textures/GrassFloor_Material" FILE="W:/UdemyCourses/Unreal Engine C++/ToonTanks/Content/Assets/Textures/GrassFloor_Material.uasset" SILENT=true
+[2021.08.04-15.42.40:049][652]LogSavePackage: Moving 'W:/UdemyCourses/Unreal Engine C++/ToonTanks/Saved/GrassFloor_Material7BC0BD8741E88952A5FAFBB9930BDD6D.tmp' to 'W:/UdemyCourses/Unreal Engine C++/ToonTanks/Content/Assets/Textures/GrassFloor_Material.uasset'
+[2021.08.04-15.42.40:127][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.08.04-15.42.40:140][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.08.04-15.42.40:144][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.08.04-15.42.40:161][652]AssetCheck: New page: Asset Save: GrassFloor_Material
+[2021.08.04-15.42.40:161][652]LogContentValidation: Display: Validating Material /Game/Assets/Textures/GrassFloor_Material.GrassFloor_Material
+[2021.08.04-15.42.45:247][257]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2021.08.04-15.42.55:481][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="W:/UdemyCourses/Unreal Engine C++/ToonTanks/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.04-15.42.55:484][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.08.04-15.42.55:492][463]LogSavePackage: Moving 'W:/UdemyCourses/Unreal Engine C++/ToonTanks/Saved/Main793D55F545F843E0790567A5D1C3E561.tmp' to 'W:/UdemyCourses/Unreal Engine C++/ToonTanks/Content/Maps/Main.umap'
+[2021.08.04-15.42.55:496][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_BuiltData" FILE="W:/UdemyCourses/Unreal Engine C++/ToonTanks/Content/Maps/Main_BuiltData.uasset" SILENT=true
+[2021.08.04-15.42.55:509][463]LogSavePackage: Moving 'W:/UdemyCourses/Unreal Engine C++/ToonTanks/Saved/Main_BuiltDataEA490C684246B776C30311B25FCD048B.tmp' to 'W:/UdemyCourses/Unreal Engine C++/ToonTanks/Content/Maps/Main_BuiltData.uasset'
+[2021.08.04-15.42.55:517][463]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.04-15.42.55:517][463]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Main_BuiltData.Main_BuiltData
+[2021.08.04-15.42.55:517][463]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2021.08.04-15.42.56:502][580]Candidate modules for hot reload:
+[2021.08.04-15.42.56:502][580]  ToonTanks
+[2021.08.04-15.42.56:502][580]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,3788 ToonTanksEditor Win64 Development -Project="W:/UdemyCourses/Unreal Engine C++/ToonTanks/ToonTanks.uproject" "W:/UdemyCourses/Unreal Engine C++/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.08.04-15.42.56:504][580]Warning: Starting HotReload took  0.0s.
+[2021.08.04-15.42.57:893][712]CompilerResultsLog: New page: Compilation - Aug 4, 2021, 7:42:57 AM
+[2021.08.04-15.42.57:893][712]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (W:\UdemyCourses\Unreal Engine C++\ToonTanks).
+[2021.08.04-15.42.57:893][712]CompilerResultsLog: Building ToonTanksEditor...
+[2021.08.04-15.42.57:893][712]CompilerResultsLog: Using Visual Studio 2019 14.28.29913 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.08.04-15.42.57:893][712]CompilerResultsLog: Building 3 actions with 8 processes...
+[2021.08.04-15.42.57:893][712]CompilerResultsLog:   [1/3] UE4Editor-ToonTanks-3788.lib
+[2021.08.04-15.42.57:893][712]CompilerResultsLog:      Creating library W:\UdemyCourses\Unreal Engine C++\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-3788.lib and object W:\UdemyCourses\Unreal Engine C++\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-3788.exp
+[2021.08.04-15.42.57:893][712]CompilerResultsLog:   [2/3] UE4Editor-ToonTanks-3788.dll
+[2021.08.04-15.42.57:893][712]CompilerResultsLog:      Creating library W:\UdemyCourses\Unreal Engine C++\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-3788.suppressed.lib and object W:\UdemyCourses\Unreal Engine C++\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-3788.suppressed.exp
+[2021.08.04-15.42.57:893][712]CompilerResultsLog:   [3/3] ToonTanksEditor.target
+[2021.08.04-15.42.57:893][712]CompilerResultsLog: Total time in Parallel executor: 0.73 seconds
+[2021.08.04-15.42.57:893][712]CompilerResultsLog: Total execution time: 1.31 seconds
+[2021.08.04-15.42.57:893][712]LogMainFrame: MainFrame: Module compiling took 1.396 seconds
+[2021.08.04-15.42.57:913][712]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ToonTanks' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2021.08.04-15.42.57:914][712]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.08.04-15.42.57:943][712]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0072 seconds. Added 3603 classes and 862 folders.
+[2021.08.04-15.42.57:943][712]Display: HotReload took  1.4s.
+[2021.08.04-15.43.29:508][111]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_BasePawnTank.BP_BasePawnTank
+[2021.08.04-15.43.29:635][111]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2021.08.04-15.43.32:036][307]LogRenderer: Reallocating scene render targets to support 1496x708 Format 10 NumSamples 1 (Frame:1).
+[2021.08.04-15.43.37:093][897]LogEditorViewport: Clicking on Actor (LMB): BP_BasePawnTank_C (BP_BasePawnTank)
+[2021.08.04-15.43.44:392][706]Running C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="W:/UdemyCourses/Unreal Engine C++/ToonTanks/ToonTanks.uproject" -game -rocket -progress
+[2021.08.04-15.43.44:697][706]Discovering modules, targets and source code for project...
+[2021.08.04-15.43.45:706][706]Binding IntelliSense data...
+[2021.08.04-15.43.47:928][706]Binding IntelliSense data... 100%
+[2021.08.04-15.43.47:928][706]Writing project files...
+[2021.08.04-15.43.48:231][706]Writing project files... 100%
+[2021.08.04-15.45.42:512][329]AssetReimport: New page: Outstanding source content changes 7:45:42 AM
+[2021.08.04-15.45.42:525][329]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 W:/UdemyCourses/Unreal Engine C++/ToonTanks/Content/Assets/Textures/RockTexture.tif)
+[2021.08.04-15.45.43:056][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Textures/RockTexture" FILE="W:/UdemyCourses/Unreal Engine C++/ToonTanks/Content/Assets/Textures/RockTexture.uasset" SILENT=true
+[2021.08.04-15.45.43:268][330]LogSavePackage: Moving 'W:/UdemyCourses/Unreal Engine C++/ToonTanks/Saved/RockTexture84B345464FA49EC509A7CF94BB62D65C.tmp' to 'W:/UdemyCourses/Unreal Engine C++/ToonTanks/Content/Assets/Textures/RockTexture.uasset'
+[2021.08.04-15.45.43:289][331]AssetCheck: New page: Asset Save: RockTexture
+[2021.08.04-15.45.43:289][331]LogContentValidation: Display: Validating Texture2D /Game/Assets/Textures/RockTexture.RockTexture
+[2021.08.04-15.45.46:438][577]AssetReimport: Importing new asset /Game/Assets/Textures/RockTexture.
+[2021.08.04-15.45.55:287][849]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2021.08.04-15.45.56:784][ 24]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2021.08.04-15.45.56:892][ 36]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.08.04-15.46.16:292][275]LogMaterial: Display: Missing cached shader map for material RockTexture_Mat, compiling. 
+[2021.08.04-15.46.16:303][275]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.08.04-15.46.16:303][275]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.04-15.46.16:303][275]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.08.04-15.46.16:307][275]LogMaterial: Display: Material /Game/Assets/Textures/RockTexture_Mat.RockTexture_Mat needed to have new flag set bUsedWithStaticLighting !
+[2021.08.04-15.46.16:308][275]LogMaterial: Display: Missing cached shader map for material RockTexture_Mat, compiling. 
+[2021.08.04-15.46.16:317][275]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2021.08.04-15.46.18:028][416]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2021.08.04-15.46.18:179][430]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2021.08.04-15.46.18:273][440]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.04-15.46.19:184][531]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.08.04-15.46.19:401][553]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.08.04-15.46.19:721][589]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.04-15.46.19:787][597]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.04-15.46.31:084][910]LogContentBrowser: Attempting asset rename: RockTexture_Mat -> RockWall_Material
+[2021.08.04-15.46.31:155][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Textures/RockWall_Material" FILE="W:/UdemyCourses/Unreal Engine C++/ToonTanks/Content/Assets/Textures/RockWall_Material.uasset" SILENT=true
+[2021.08.04-15.46.31:160][910]LogSavePackage: Moving 'W:/UdemyCourses/Unreal Engine C++/ToonTanks/Saved/RockWall_Material6724EA144771EE10F9001EB56E6C1A75.tmp' to 'W:/UdemyCourses/Unreal Engine C++/ToonTanks/Content/Assets/Textures/RockWall_Material.uasset'
+[2021.08.04-15.46.31:256][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2021.08.04-15.46.31:280][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2021.08.04-15.46.31:293][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.08.04-15.46.31:313][910]AssetCheck: New page: Asset Save: RockWall_Material
+[2021.08.04-15.46.31:313][910]LogContentValidation: Display: Validating Material /Game/Assets/Textures/RockWall_Material.RockWall_Material
+[2021.08.04-15.46.35:018][294]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Textures/RockWall_Material.RockWall_Material
+[2021.08.04-15.46.35:019][294]LogMaterial: Display: Missing cached shader map for material RockWall_Material, compiling. 
+[2021.08.04-15.46.35:058][294]LogMaterial: Display: Missing cached shader map for material RockWall_Material, compiling. 
+[2021.08.04-15.46.35:067][294]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.08.04-15.46.35:070][294]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2021.08.04-15.46.35:070][294]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.08.04-15.46.35:070][294]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.08.04-15.46.35:070][294]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.08.04-15.46.35:375][311]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2021.08.04-15.46.35:474][323]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.08.04-15.46.35:534][330]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.08.04-15.46.35:534][330]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.04-15.46.35:834][366]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2021.08.04-15.46.35:850][368]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.08.04-15.46.35:899][374]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.08.04-15.46.35:984][384]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2021.08.04-15.46.36:233][414]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.08.04-15.46.36:291][421]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.04-15.46.36:291][421]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.08.04-15.46.36:304][422]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.08.04-15.46.36:304][422]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2021.08.04-15.46.36:304][422]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.08.04-15.46.36:304][422]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.08.04-15.46.36:304][422]MaterialEditorStats: Texture samplers: 3/16
+[2021.08.04-15.46.36:304][422]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.08.04-15.46.36:304][422]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.08.04-15.47.15:696][ 72]LogMaterialEditor: Saving and Compiling material RockWall_Material
+[2021.08.04-15.47.15:711][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Textures/RockWall_Material" FILE="W:/UdemyCourses/Unreal Engine C++/ToonTanks/Content/Assets/Textures/RockWall_Material.uasset" SILENT=true
+[2021.08.04-15.47.15:712][ 72]LogSavePackage: Moving 'W:/UdemyCourses/Unreal Engine C++/ToonTanks/Saved/RockWall_Material86ED673A43EEC921CA3386862DB0FF43.tmp' to 'W:/UdemyCourses/Unreal Engine C++/ToonTanks/Content/Assets/Textures/RockWall_Material.uasset'
+[2021.08.04-15.47.15:724][ 72]AssetCheck: New page: Asset Save: RockWall_Material
+[2021.08.04-15.47.15:724][ 72]LogContentValidation: Display: Validating Material /Game/Assets/Textures/RockWall_Material.RockWall_Material
+[2021.08.04-15.47.29:373][684]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2021.08.04-15.47.30:175][771]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.04-15.47.36:364][459]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2021.08.04-15.48.15:135][913]LogMaterial: Display: Missing cached shader map for material RockWall_Material, compiling. 
+[2021.08.04-15.48.15:142][913]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2021.08.04-15.48.15:142][913]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.08.04-15.48.15:142][913]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.08.04-15.48.15:142][913]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.08.04-15.48.15:537][960]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.08.04-15.48.15:628][971]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2021.08.04-15.48.15:696][979]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.08.04-15.48.15:696][979]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.08.04-15.48.15:984][  9]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.08.04-15.48.15:984][  9]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.08.04-15.48.16:041][ 16]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.08.04-15.48.19:258][396]LogMaterial: Display: Missing cached shader map for material RockWall_Material, compiling. 
+[2021.08.04-15.48.19:258][396]LogMaterial: Warning: [AssetLog] /Engine/Transient.RockWall_Material (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.04-15.48.19:258][396]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Assets/Textures/RockTexture.RockTexture
+[2021.08.04-15.48.19:263][396]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.08.04-15.48.19:265][396]LogMaterial: Display: Missing cached shader map for material RockWall_Material, compiling. 
+[2021.08.04-15.48.19:266][396]LogMaterial: Warning: [AssetLog] /Engine/Transient.RockWall_Material (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.04-15.48.19:266][396]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Assets/Textures/RockTexture.RockTexture
+[2021.08.04-15.48.19:271][396]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Assets/Textures/RockTexture.RockTexture
+[2021.08.04-15.48.21:865][705]LogMaterial: Display: Missing cached shader map for material RockWall_Material, compiling. 
+[2021.08.04-15.48.21:865][705]LogMaterial: Warning: [AssetLog] /Engine/Transient.RockWall_Material (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.04-15.48.21:865][705]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Assets/Textures/RockTexture.RockTexture
+[2021.08.04-15.48.22:833][821]LogMaterial: Display: Missing cached shader map for material RockWall_Material, compiling. 
+[2021.08.04-15.48.22:834][821]LogMaterial: Warning: [AssetLog] /Engine/Transient.RockWall_Material (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.04-15.48.22:834][821]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Alpha, should be Linear Color for /Game/Assets/Textures/RockTexture.RockTexture
+[2021.08.04-15.48.22:840][821]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.08.04-15.48.22:843][821]LogMaterial: Display: Missing cached shader map for material RockWall_Material, compiling. 
+[2021.08.04-15.48.22:843][821]LogMaterial: Warning: [AssetLog] /Engine/Transient.RockWall_Material (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.04-15.48.22:843][821]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Alpha, should be Linear Color for /Game/Assets/Textures/RockTexture.RockTexture
+[2021.08.04-15.48.22:850][821]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Alpha, should be Linear Color for /Game/Assets/Textures/RockTexture.RockTexture
+[2021.08.04-15.48.24:177][977]LogMaterial: Display: Missing cached shader map for material RockWall_Material, compiling. 
+[2021.08.04-15.48.24:178][977]LogMaterial: Warning: [AssetLog] /Engine/Transient.RockWall_Material (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.04-15.48.24:178][977]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Alpha, should be Linear Color for /Game/Assets/Textures/RockTexture.RockTexture
+[2021.08.04-15.48.28:731][522]LogMaterial: Display: Missing cached shader map for material RockWall_Material, compiling. 
+[2021.08.04-15.48.28:731][522]LogMaterial: Warning: [AssetLog] /Engine/Transient.RockWall_Material (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.04-15.48.28:731][522]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is External, should be Linear Color for /Game/Assets/Textures/RockTexture.RockTexture
+[2021.08.04-15.48.28:736][522]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.08.04-15.48.28:739][522]LogMaterial: Display: Missing cached shader map for material RockWall_Material, compiling. 
+[2021.08.04-15.48.28:739][522]LogMaterial: Warning: [AssetLog] /Engine/Transient.RockWall_Material (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.04-15.48.28:739][522]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is External, should be Linear Color for /Game/Assets/Textures/RockTexture.RockTexture
+[2021.08.04-15.48.28:743][522]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is External, should be Linear Color for /Game/Assets/Textures/RockTexture.RockTexture
+[2021.08.04-15.48.31:037][795]LogMaterial: Display: Missing cached shader map for material RockWall_Material, compiling. 
+[2021.08.04-15.48.31:037][795]LogMaterial: Warning: [AssetLog] /Engine/Transient.RockWall_Material (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.04-15.48.31:037][795]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is External, should be Linear Color for /Game/Assets/Textures/RockTexture.RockTexture
+[2021.08.04-15.48.32:311][946]LogMaterial: Display: Missing cached shader map for material RockWall_Material, compiling. 
+[2021.08.04-15.48.32:312][946]LogMaterial: Warning: [AssetLog] /Engine/Transient.RockWall_Material (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.04-15.48.32:312][946]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Data, should be Linear Color for /Game/Assets/Textures/RockTexture.RockTexture
+[2021.08.04-15.48.32:317][946]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.08.04-15.48.32:320][946]LogMaterial: Display: Missing cached shader map for material RockWall_Material, compiling. 
+[2021.08.04-15.48.32:320][946]LogMaterial: Warning: [AssetLog] /Engine/Transient.RockWall_Material (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.04-15.48.32:320][946]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Data, should be Linear Color for /Game/Assets/Textures/RockTexture.RockTexture
+[2021.08.04-15.48.32:326][946]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Data, should be Linear Color for /Game/Assets/Textures/RockTexture.RockTexture
+[2021.08.04-15.48.33:135][ 42]LogMaterial: Display: Missing cached shader map for material RockWall_Material, compiling. 
+[2021.08.04-15.48.33:136][ 42]LogMaterial: Warning: [AssetLog] /Engine/Transient.RockWall_Material (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.04-15.48.33:136][ 42]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Data, should be Linear Color for /Game/Assets/Textures/RockTexture.RockTexture
+[2021.08.04-15.48.34:146][163]LogMaterial: Display: Missing cached shader map for material RockWall_Material, compiling. 
+[2021.08.04-15.48.34:147][163]LogMaterial: Warning: [AssetLog] /Engine/Transient.RockWall_Material (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.04-15.48.34:147][163]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Linear Grayscale, should be Linear Color for /Game/Assets/Textures/RockTexture.RockTexture
+[2021.08.04-15.48.34:152][163]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.08.04-15.48.34:155][163]LogMaterial: Display: Missing cached shader map for material RockWall_Material, compiling. 
+[2021.08.04-15.48.34:155][163]LogMaterial: Warning: [AssetLog] /Engine/Transient.RockWall_Material (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.04-15.48.34:155][163]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Linear Grayscale, should be Linear Color for /Game/Assets/Textures/RockTexture.RockTexture
+[2021.08.04-15.48.34:167][163]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Linear Grayscale, should be Linear Color for /Game/Assets/Textures/RockTexture.RockTexture
+[2021.08.04-15.48.35:194][280]LogMaterial: Display: Missing cached shader map for material RockWall_Material, compiling. 
+[2021.08.04-15.48.35:195][280]LogMaterial: Warning: [AssetLog] /Engine/Transient.RockWall_Material (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.04-15.48.35:195][280]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Linear Grayscale, should be Linear Color for /Game/Assets/Textures/RockTexture.RockTexture
+[2021.08.04-15.48.36:265][407]LogMaterial: Display: Missing cached shader map for material RockWall_Material, compiling. 
+[2021.08.04-15.48.36:272][407]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.08.04-15.48.36:277][407]LogMaterial: Display: Missing cached shader map for material RockWall_Material, compiling. 
+[2021.08.04-15.48.36:282][407]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2021.08.04-15.48.36:282][407]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.08.04-15.48.36:282][407]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.08.04-15.48.36:282][407]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.08.04-15.48.36:582][442]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2021.08.04-15.48.36:640][449]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.08.04-15.48.36:640][449]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2021.08.04-15.48.36:673][453]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.08.04-15.48.37:015][493]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2021.08.04-15.48.37:073][500]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.08.04-15.48.37:073][500]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.08.04-15.48.37:132][507]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.08.04-15.48.37:457][546]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.08.04-15.48.37:524][554]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.04-15.48.37:532][555]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.04-15.48.37:894][596]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.08.04-15.48.37:894][596]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2021.08.04-15.48.37:894][596]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.08.04-15.48.37:894][596]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.08.04-15.48.37:894][596]MaterialEditorStats: Texture samplers: 3/16
+[2021.08.04-15.48.37:894][596]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.08.04-15.48.37:894][596]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.08.04-15.48.40:387][893]LogMaterial: Display: Missing cached shader map for material RockWall_Material, compiling. 
+[2021.08.04-15.48.40:396][893]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.08.04-15.48.40:399][893]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2021.08.04-15.48.40:400][893]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.08.04-15.48.40:400][893]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.08.04-15.48.40:400][893]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.08.04-15.48.40:402][893]LogMaterial: Display: Missing cached shader map for material RockWall_Material, compiling. 
+[2021.08.04-15.48.40:713][930]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2021.08.04-15.48.40:805][941]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2021.08.04-15.48.40:864][948]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2021.08.04-15.48.40:864][948]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.08.04-15.48.40:973][961]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2021.08.04-15.48.41:175][985]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.08.04-15.48.41:182][986]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.08.04-15.48.41:238][992]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.04-15.48.41:429][ 15]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.08.04-15.48.41:529][ 27]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.08.04-15.48.41:579][ 33]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.08.04-15.48.41:638][ 40]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.08.04-15.48.41:879][ 69]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.08.04-15.48.41:929][ 75]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.08.04-15.48.41:954][ 78]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.04-15.48.42:312][120]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.08.04-15.48.42:312][120]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2021.08.04-15.48.42:312][120]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.08.04-15.48.42:312][120]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.08.04-15.48.42:312][120]MaterialEditorStats: Texture samplers: 3/16
+[2021.08.04-15.48.42:312][120]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.08.04-15.48.42:312][120]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.08.04-15.48.44:785][417]LogMaterial: Display: Missing cached shader map for material RockWall_Material, compiling. 
+[2021.08.04-15.48.44:795][417]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.08.04-15.48.44:798][417]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2021.08.04-15.48.44:798][417]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.08.04-15.48.44:798][417]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.08.04-15.48.44:798][417]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.08.04-15.48.44:800][417]LogMaterial: Display: Missing cached shader map for material RockWall_Material, compiling. 
+[2021.08.04-15.48.45:117][454]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2021.08.04-15.48.45:207][465]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2021.08.04-15.48.45:266][472]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2021.08.04-15.48.45:274][473]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.08.04-15.48.45:374][485]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2021.08.04-15.48.45:557][507]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.08.04-15.48.45:572][508]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2021.08.04-15.48.45:620][512]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.08.04-15.48.45:819][535]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.08.04-15.48.45:920][547]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.08.04-15.48.45:986][555]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.08.04-15.48.46:036][561]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.08.04-15.48.46:327][595]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.08.04-15.48.46:352][598]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.08.04-15.48.46:385][602]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.08.04-15.48.46:753][642]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.08.04-15.48.46:753][642]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2021.08.04-15.48.46:753][642]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.08.04-15.48.46:753][642]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.08.04-15.48.46:753][642]MaterialEditorStats: Texture samplers: 3/16
+[2021.08.04-15.48.46:753][642]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.08.04-15.48.46:753][642]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.08.04-15.48.48:758][883]LogMaterial: Display: Missing cached shader map for material RockWall_Material, compiling. 
+[2021.08.04-15.48.48:768][884]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2021.08.04-15.48.48:768][884]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.08.04-15.48.48:768][884]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.08.04-15.48.48:768][884]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.08.04-15.48.49:105][924]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.08.04-15.48.49:204][936]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2021.08.04-15.48.49:255][942]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.08.04-15.48.49:263][943]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2021.08.04-15.48.49:559][971]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.08.04-15.48.49:575][972]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.08.04-15.48.49:644][979]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.08.04-15.48.49:977][ 18]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.08.04-15.48.49:977][ 18]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2021.08.04-15.48.49:977][ 18]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.08.04-15.48.49:977][ 18]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.08.04-15.48.49:977][ 18]MaterialEditorStats: Texture samplers: 3/16
+[2021.08.04-15.48.49:977][ 18]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.08.04-15.48.49:977][ 18]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.08.04-15.48.52:533][325]LogMaterial: Display: Missing cached shader map for material RockWall_Material, compiling. 
+[2021.08.04-15.48.52:541][325]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2021.08.04-15.48.52:541][325]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.08.04-15.48.52:541][325]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.08.04-15.48.52:541][325]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.08.04-15.48.52:543][325]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.08.04-15.48.52:548][325]LogMaterial: Display: Missing cached shader map for material RockWall_Material, compiling. 
+[2021.08.04-15.48.52:856][362]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2021.08.04-15.48.52:948][373]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2021.08.04-15.48.53:006][380]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2021.08.04-15.48.53:006][380]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.08.04-15.48.53:124][394]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2021.08.04-15.48.53:298][415]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.08.04-15.48.53:305][416]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.08.04-15.48.53:356][422]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.04-15.48.53:548][445]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.08.04-15.48.53:664][459]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.08.04-15.48.53:698][463]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.08.04-15.48.53:755][470]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.08.04-15.48.54:006][500]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.08.04-15.48.54:055][506]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.08.04-15.48.54:088][510]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.04-15.48.54:439][551]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.08.04-15.48.54:439][551]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2021.08.04-15.48.54:439][551]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.08.04-15.48.54:439][551]MaterialEditorStats: Base pass vertex shader: 53 instructions
+[2021.08.04-15.48.54:439][551]MaterialEditorStats: Texture samplers: 3/16
+[2021.08.04-15.48.54:439][551]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.08.04-15.48.54:439][551]MaterialEditorStats: User interpolators: 6/8 Scalars (2/4 Vectors) (TexCoords: 6, Custom: 0)
+[2021.08.04-15.49.00:723][304]LogMaterial: Display: Missing cached shader map for material RockWall_Material, compiling. 
+[2021.08.04-15.49.00:735][304]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.08.04-15.49.00:739][304]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2021.08.04-15.49.00:739][304]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.08.04-15.49.00:739][304]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.08.04-15.49.00:739][304]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.08.04-15.49.00:741][304]LogMaterial: Display: Missing cached shader map for material RockWall_Material, compiling. 
+[2021.08.04-15.49.01:075][344]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2021.08.04-15.49.01:150][353]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2021.08.04-15.49.01:217][361]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2021.08.04-15.49.01:225][362]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.08.04-15.49.01:360][378]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2021.08.04-15.49.01:500][395]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.08.04-15.49.01:526][398]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2021.08.04-15.49.01:567][403]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.08.04-15.49.01:792][430]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.08.04-15.49.01:875][440]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.08.04-15.49.01:925][446]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.08.04-15.49.01:959][450]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.08.04-15.49.02:283][489]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.08.04-15.49.02:292][490]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.08.04-15.49.02:341][496]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.08.04-15.49.02:717][540]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.08.04-15.49.02:717][540]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2021.08.04-15.49.02:717][540]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.08.04-15.49.02:717][540]MaterialEditorStats: Base pass vertex shader: 63 instructions
+[2021.08.04-15.49.02:717][540]MaterialEditorStats: Texture samplers: 3/16
+[2021.08.04-15.49.02:717][540]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.08.04-15.49.02:717][540]MaterialEditorStats: User interpolators: 16/16 Scalars (4/4 Vectors) (TexCoords: 16, Custom: 0)
+[2021.08.04-15.49.06:060][935]LogMaterial: Display: Missing cached shader map for material RockWall_Material, compiling. 
+[2021.08.04-15.49.06:060][935]LogMaterial: Warning: [AssetLog] /Engine/Transient.RockWall_Material (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.04-15.49.06:061][935]LogMaterial: Display: 	(Node TextureSample) Only 8 texture coordinate sets can be used by this feature level, currently using 21
+[2021.08.04-15.49.06:068][935]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.08.04-15.49.06:071][935]LogMaterial: Display: Missing cached shader map for material RockWall_Material, compiling. 
+[2021.08.04-15.49.06:071][935]LogMaterial: Warning: [AssetLog] /Engine/Transient.RockWall_Material (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.04-15.49.06:071][935]LogMaterial: Display: 	(Node TextureSample) Only 8 texture coordinate sets can be used by this feature level, currently using 21
+[2021.08.04-15.49.06:072][935]MaterialEditorStats: Error: [SM5] (Node TextureSample) Only 8 texture coordinate sets can be used by this feature level, currently using 21
+[2021.08.04-15.49.22:433][892]LogMaterial: Display: Missing cached shader map for material RockWall_Material, compiling. 
+[2021.08.04-15.49.22:433][892]LogMaterial: Warning: [AssetLog] /Engine/Transient.RockWall_Material (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.04-15.49.22:433][892]LogMaterial: Display: 	(Node TextureSample) Only 8 texture coordinate sets can be used by this feature level, currently using 16
+[2021.08.04-15.49.22:440][892]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.08.04-15.49.22:443][892]LogMaterial: Display: Missing cached shader map for material RockWall_Material, compiling. 
+[2021.08.04-15.49.22:443][892]LogMaterial: Warning: [AssetLog] /Engine/Transient.RockWall_Material (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.04-15.49.22:443][892]LogMaterial: Display: 	(Node TextureSample) Only 8 texture coordinate sets can be used by this feature level, currently using 16
+[2021.08.04-15.49.22:444][892]MaterialEditorStats: Error: [SM5] (Node TextureSample) Only 8 texture coordinate sets can be used by this feature level, currently using 16
+[2021.08.04-15.49.29:050][681]LogMaterial: Display: Missing cached shader map for material RockWall_Material, compiling. 
+[2021.08.04-15.49.29:050][681]LogMaterial: Warning: [AssetLog] /Engine/Transient.RockWall_Material (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.04-15.49.29:050][681]LogMaterial: Display: 	(Node TextureSample) Only 8 texture coordinate sets can be used by this feature level, currently using 11
+[2021.08.04-15.49.29:053][681]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.08.04-15.49.29:056][681]LogMaterial: Display: Missing cached shader map for material RockWall_Material, compiling. 
+[2021.08.04-15.49.29:056][681]LogMaterial: Warning: [AssetLog] /Engine/Transient.RockWall_Material (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.04-15.49.29:056][681]LogMaterial: Display: 	(Node TextureSample) Only 8 texture coordinate sets can be used by this feature level, currently using 11
+[2021.08.04-15.49.29:057][681]MaterialEditorStats: Error: [SM5] (Node TextureSample) Only 8 texture coordinate sets can be used by this feature level, currently using 11
+[2021.08.04-15.49.34:056][279]LogMaterial: Display: Missing cached shader map for material RockWall_Material, compiling. 
+[2021.08.04-15.49.34:067][279]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.08.04-15.49.34:070][279]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2021.08.04-15.49.34:070][279]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.08.04-15.49.34:070][279]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.08.04-15.49.34:070][279]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.08.04-15.49.34:072][279]LogMaterial: Display: Missing cached shader map for material RockWall_Material, compiling. 
+[2021.08.04-15.49.34:510][331]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2021.08.04-15.49.34:593][341]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2021.08.04-15.49.34:672][350]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2021.08.04-15.49.34:672][350]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.08.04-15.49.34:799][365]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2021.08.04-15.49.34:955][384]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.08.04-15.49.34:991][387]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.08.04-15.49.35:041][393]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.04-15.49.35:257][419]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.08.04-15.49.35:365][432]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.08.04-15.49.35:408][437]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.08.04-15.49.35:475][445]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.08.04-15.49.35:771][479]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.08.04-15.49.35:786][480]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.08.04-15.49.35:845][487]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.04-15.49.36:187][527]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.08.04-15.49.36:187][527]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2021.08.04-15.49.36:187][527]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.08.04-15.49.36:187][527]MaterialEditorStats: Base pass vertex shader: 63 instructions
+[2021.08.04-15.49.36:187][527]MaterialEditorStats: Texture samplers: 3/16
+[2021.08.04-15.49.36:187][527]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.08.04-15.49.36:187][527]MaterialEditorStats: User interpolators: 16/16 Scalars (4/4 Vectors) (TexCoords: 16, Custom: 0)
+[2021.08.04-15.49.40:879][ 85]LogMaterialEditor: Saving and Compiling material RockWall_Material
+[2021.08.04-15.49.41:299][ 85]LogMaterial: Display: Missing cached shader map for material RockWall_Material, compiling. 
+[2021.08.04-15.49.41:330][ 85]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2021.08.04-15.49.41:330][ 85]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.08.04-15.49.41:330][ 85]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.08.04-15.49.41:330][ 85]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.08.04-15.49.41:336][ 85]LogMaterial: Display: Missing cached shader map for material RockWall_Material, compiling. 
+[2021.08.04-15.49.41:376][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2021.08.04-15.49.41:383][ 85]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.08.04-15.49.41:947][ 85]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 30
+[2021.08.04-15.49.41:947][ 85]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 29
+[2021.08.04-15.49.41:947][ 85]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2021.08.04-15.49.41:947][ 85]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2021.08.04-15.49.42:483][ 85]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2021.08.04-15.49.42:483][ 85]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2021.08.04-15.49.42:483][ 85]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2021.08.04-15.49.42:483][ 85]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2021.08.04-15.49.42:483][ 85]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2021.08.04-15.49.42:483][ 85]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2021.08.04-15.49.42:483][ 85]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2021.08.04-15.49.42:483][ 85]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2021.08.04-15.49.42:483][ 85]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.08.04-15.49.42:492][ 85]TextureStreamingBuild: Display: Compiling optional shaders took 1.114 seconds.
+[2021.08.04-15.49.42:524][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.08.04-15.49.43:671][ 85]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.08.04-15.49.43:671][ 85]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.08.04-15.49.44:230][ 85]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.08.04-15.49.44:230][ 85]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.04-15.49.44:340][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Textures/RockWall_Material" FILE="W:/UdemyCourses/Unreal Engine C++/ToonTanks/Content/Assets/Textures/RockWall_Material.uasset" SILENT=true
+[2021.08.04-15.49.44:344][ 85]LogSavePackage: Moving 'W:/UdemyCourses/Unreal Engine C++/ToonTanks/Saved/RockWall_Material4E7B4D0E4A35F9CC95EB4A96B7AA74A1.tmp' to 'W:/UdemyCourses/Unreal Engine C++/ToonTanks/Content/Assets/Textures/RockWall_Material.uasset'
+[2021.08.04-15.49.44:382][ 85]AssetCheck: New page: Asset Save: RockWall_Material
+[2021.08.04-15.49.44:382][ 85]LogContentValidation: Display: Validating Material /Game/Assets/Textures/RockWall_Material.RockWall_Material
+[2021.08.04-15.49.44:383][ 85]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.08.04-15.49.44:383][ 85]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2021.08.04-15.49.44:383][ 85]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.08.04-15.49.44:383][ 85]MaterialEditorStats: Base pass vertex shader: 63 instructions
+[2021.08.04-15.49.44:383][ 85]MaterialEditorStats: Texture samplers: 4/16
+[2021.08.04-15.49.44:383][ 85]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.08.04-15.49.44:383][ 85]MaterialEditorStats: User interpolators: 16/16 Scalars (4/4 Vectors) (TexCoords: 16, Custom: 0)
+[2021.08.04-15.49.48:274][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="W:/UdemyCourses/Unreal Engine C++/ToonTanks/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.04-15.49.48:288][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.08.04-15.49.48:296][527]LogSavePackage: Moving 'W:/UdemyCourses/Unreal Engine C++/ToonTanks/Saved/Main9C1799BF4F33CA07498F0D8192382C72.tmp' to 'W:/UdemyCourses/Unreal Engine C++/ToonTanks/Content/Maps/Main.umap'
+[2021.08.04-15.49.48:300][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_BuiltData" FILE="W:/UdemyCourses/Unreal Engine C++/ToonTanks/Content/Maps/Main_BuiltData.uasset" SILENT=true
+[2021.08.04-15.49.48:308][527]LogSavePackage: Moving 'W:/UdemyCourses/Unreal Engine C++/ToonTanks/Saved/Main_BuiltData45EF6E764692417AEE5033B3B150BDA6.tmp' to 'W:/UdemyCourses/Unreal Engine C++/ToonTanks/Content/Maps/Main_BuiltData.uasset'
+[2021.08.04-15.49.48:316][527]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.04-15.49.48:316][527]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Main_BuiltData.Main_BuiltData
+[2021.08.04-15.49.48:316][527]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2021.08.04-15.51.07:892][324]LogSlate: Window 'Material Baking Options' being destroyed
+[2021.08.04-15.51.07:938][324]LogMaterial: Display: Missing cached shader map for material FExportMaterialRenderer RockWall_Material, compiling. 
+[2021.08.04-15.51.08:507][324]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2021.08.04-15.51.08:507][324]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2021.08.04-15.51.08:507][324]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.08.04-15.51.08:507][324]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.08.04-15.51.11:072][324]LogTexture: Display: Building textures: T_M_Cube_RockWall_Material_1A820B3943C19C433D42039F310BECEC_BaseColor (BGRA8, 10613X14217)
+[2021.08.04-15.51.14:584][324]LogMaterial: Display: Missing cached shader map for material NewBaseFlattenMaterial, compiling. 
+[2021.08.04-15.51.14:690][324]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 111
+[2021.08.04-15.51.14:690][324]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 101
+[2021.08.04-15.51.14:690][324]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 91
+[2021.08.04-15.51.14:690][324]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 81
+[2021.08.04-15.51.14:891][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="W:/UdemyCourses/Unreal Engine C++/ToonTanks/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.04-15.51.14:912][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.08.04-15.51.14:923][324]LogSavePackage: Moving 'W:/UdemyCourses/Unreal Engine C++/ToonTanks/Saved/Main450A4CC842FA0901538A6991962F2613.tmp' to 'W:/UdemyCourses/Unreal Engine C++/ToonTanks/Content/Maps/Main.umap'
+[2021.08.04-15.51.14:928][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_BuiltData" FILE="W:/UdemyCourses/Unreal Engine C++/ToonTanks/Content/Maps/Main_BuiltData.uasset" SILENT=true
+[2021.08.04-15.51.14:937][324]LogSavePackage: Moving 'W:/UdemyCourses/Unreal Engine C++/ToonTanks/Saved/Main_BuiltData1C46FA8045E8090F3A025182268F4532.tmp' to 'W:/UdemyCourses/Unreal Engine C++/ToonTanks/Content/Maps/Main_BuiltData.uasset'
+[2021.08.04-15.51.14:947][324]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.04-15.51.14:947][324]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Main_BuiltData.Main_BuiltData
+[2021.08.04-15.51.14:947][324]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2021.08.04-15.51.16:516][466]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 71
+[2021.08.04-15.51.16:864][502]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 61
+[2021.08.04-15.51.17:004][517]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 51
+[2021.08.04-15.51.17:541][577]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 41
+[2021.08.04-15.51.19:453][794]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2021.08.04-15.51.19:717][824]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2021.08.04-15.51.20:166][876]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2021.08.04-15.51.20:682][936]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.08.04-15.51.20:776][947]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.08.04-15.51.21:125][988]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.08.04-15.51.21:240][  1]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.08.04-15.51.21:376][ 17]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.04-15.51.21:481][ 28]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.04-15.51.31:978][744]LogSlate: Window 'Material Baking Options' being destroyed
+[2021.08.04-15.51.32:039][744]LogMaterial: Display: Missing cached shader map for material FExportMaterialRenderer M_M_Cube_RockWall_Material_1A820B3943C19C433D42039F310BECEC, compiling. 
+[2021.08.04-15.51.32:608][744]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2021.08.04-15.51.32:608][744]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2021.08.04-15.51.32:608][744]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.08.04-15.51.32:608][744]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.08.04-15.51.52:012][447]LogSlate: Window 'Material Baking Options' being destroyed
+[2021.08.04-15.51.52:061][447]LogRHI: Error: Present Fail Count 1
+[2021.08.04-15.51.52:061][447]LogRHI: Error: SyncInterval 0
+[2021.08.04-15.51.52:061][447]LogRHI: Error: SwapChainDesc.BufferDesc.Width 648
+[2021.08.04-15.51.52:061][447]LogRHI: Error: SwapChainDesc.BufferDesc.Height 133
+[2021.08.04-15.51.52:061][447]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.08.04-15.51.52:061][447]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.08.04-15.51.52:061][447]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.08.04-15.51.52:061][447]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.08.04-15.51.52:061][447]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.08.04-15.51.52:061][447]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.08.04-15.51.52:061][447]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.08.04-15.51.52:061][447]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.08.04-15.51.52:061][447]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.08.04-15.51.52:061][447]LogRHI: Error: SwapChainDesc.OutputWindow 000000000015093E
+[2021.08.04-15.51.52:061][447]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.08.04-15.51.52:061][447]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.08.04-15.51.52:061][447]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.08.04-15.51.52:061][447]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Query.cpp:356 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DRIVER_INTERNAL_ERROR
+[2021.08.04-15.51.52:061][447]LogD3D11RHI: [Aftermath] GDynamicRHI=000001A7E56687C0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2021.08.04-15.51.52:061][447]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2021.08.04-15.51.53:897][447]LogWindows: FPlatformMisc::RequestExit(0)
+[2021.08.04-15.51.53:897][447]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.08.04-15.51.53:897][447]LogWindows: FPlatformMisc::RequestExit(1)
+[2021.08.04-15.51.53:897][447]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
+[2021.08.04-15.51.53:902][447]Log file closed, 08/04/21 11:51:53
