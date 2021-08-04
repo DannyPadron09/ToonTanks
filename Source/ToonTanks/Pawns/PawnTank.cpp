@@ -2,6 +2,8 @@
 
 
 #include "PawnTank.h"
+#include "GameFrameWork/SpringArmComponent.h"
+#include "Camera/CameraComponent.h"
 
 // Called when the game starts or when spawned
 void APawnTank::BeginPlay()
