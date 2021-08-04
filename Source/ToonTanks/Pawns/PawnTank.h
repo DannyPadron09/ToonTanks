@@ -6,6 +6,8 @@
 #include "PawnBase.h"
 #include "PawnTank.generated.h"
 
+class USpringArmComponent;
+class UCameraComponent;
 
 UCLASS()
 class TOONTANKS_API APawnTank : public APawnBase
