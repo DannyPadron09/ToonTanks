@@ -25,7 +25,7 @@ void APawnTank::BeginPlay()
 void APawnTank::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 {
 	Super::SetupPlayerInputComponent(PlayerInputComponent);
-    PlayerInputComponent->BindAxis("MoveForware", this, &APawnTank::CalculateMoveInput);
+    PlayerInputComponent->BindAxis("MoveForward", this, &APawnTank::CalculateMoveInput);
     PlayerInputComponent->BindAxis("Turn", this, &APawnTank::CalculateRotateInput);
 }
 
@@ -55,5 +55,8 @@ void APawnTank::Rotate()
 void APawnTank::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
+
+    Rotate();
+    Move();
 }
 
