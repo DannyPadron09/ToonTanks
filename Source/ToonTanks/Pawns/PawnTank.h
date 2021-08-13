@@ -38,4 +38,9 @@ private:
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Components", meta = (AllowPrivateAccess = "true"))
 	UCameraComponent* Camera;
 	
+	FVector MoveDirection;
+
+	FQuat RotationDirection;
+
+	
 };
