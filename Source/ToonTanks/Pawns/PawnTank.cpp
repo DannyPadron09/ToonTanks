@@ -48,7 +48,7 @@ void APawnTank::Move()
 
 void APawnTank::Rotate() 
 {
-    
+    AddActorLocalRotation(RotationDirection, true);
 }
 
 // Called every frame
