@@ -36,7 +36,7 @@ void APawnTank::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 
 void APawnTank::CalculateMoveInput(float Value) 
 {
-    
+    MoveDirection = FVector(Value * )
 }
 
 void APawnTank::CalculateRotateInput(float Value) 
