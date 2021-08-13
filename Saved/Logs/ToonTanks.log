@@ -840,3 +840,90 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.13-14.26.03:990][288]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.08.13-14.26.03:992][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
 [2021.08.13-14.26.04:037][292]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.08.13-14.46.46:363][242]Candidate modules for hot reload:
+[2021.08.13-14.46.46:363][242]  ToonTanks
+[2021.08.13-14.46.46:363][242]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,726 ToonTanksEditor Win64 Development -Project="W:/UdemyCourses/Unreal Engine C++/ToonTanks/ToonTanks.uproject" "W:/UdemyCourses/Unreal Engine C++/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.08.13-14.46.46:365][242]Warning: Starting HotReload took  0.0s.
+[2021.08.13-14.47.02:444][135]CompilerResultsLog: New page: Compilation - Aug 13, 2021, 6:47:02 AM
+[2021.08.13-14.47.02:445][135]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (W:\UdemyCourses\Unreal Engine C++\ToonTanks).
+[2021.08.13-14.47.02:445][135]CompilerResultsLog: Creating makefile for ToonTanksEditor (no existing makefile)
+[2021.08.13-14.47.02:445][135]CompilerResultsLog: Parsing headers for ToonTanksEditor
+[2021.08.13-14.47.02:445][135]CompilerResultsLog:   Running UnrealHeaderTool "W:\UdemyCourses\Unreal Engine C++\ToonTanks\ToonTanks.uproject" "W:\UdemyCourses\Unreal Engine C++\ToonTanks\Intermediate\Build\Win64\ToonTanksEditor\Development\ToonTanksEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\danny\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.08.13-14.47.02:445][135]CompilerResultsLog: Reflection code generated for ToonTanksEditor in 7.0606627 seconds
+[2021.08.13-14.47.02:445][135]CompilerResultsLog: Building ToonTanksEditor...
+[2021.08.13-14.47.02:445][135]CompilerResultsLog: Using Visual Studio 2019 14.28.29913 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.08.13-14.47.02:445][135]CompilerResultsLog: Building 5 actions with 8 processes...
+[2021.08.13-14.47.02:445][135]CompilerResultsLog:   [1/5] PawnTank.cpp
+[2021.08.13-14.47.02:445][135]CompilerResultsLog:    W:\UdemyCourses\Unreal Engine C++\ToonTanks\Source\ToonTanks\Pawns\PawnTank.cpp(24) : error C2601: 'APawnTank::Tick': local function definitions are illegal
+[2021.08.13-14.47.02:445][135]CompilerResultsLog:   W:\UdemyCourses\Unreal Engine C++\ToonTanks\Source\ToonTanks\Pawns\PawnTank.cpp(19): note: this line contains a '{' which has not yet been matched
+[2021.08.13-14.47.02:445][135]CompilerResultsLog:   [2/5] PawnTank.gen.cpp
+[2021.08.13-14.47.02:445][135]LogMainFrame: MainFrame: Module compiling took 16.105 seconds
+[2021.08.13-14.47.02:457][135]Warning: HotReload failed, recompile failed
+[2021.08.13-14.47.05:189][453]LogSlate: Took 0.006016 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.08.13-14.47.32:711][642]LogSlate: Window 'Message Log' being destroyed
+[2021.08.13-14.47.32:719][642]LogSlate: Window 'Message Log' being destroyed
+[2021.08.13-14.47.36:252][749]Candidate modules for hot reload:
+[2021.08.13-14.47.36:252][749]  ToonTanks
+[2021.08.13-14.47.36:252][749]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,3156 ToonTanksEditor Win64 Development -Project="W:/UdemyCourses/Unreal Engine C++/ToonTanks/ToonTanks.uproject" "W:/UdemyCourses/Unreal Engine C++/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.08.13-14.47.36:253][749]Warning: Starting HotReload took  0.0s.
+[2021.08.13-14.47.39:835][156]CompilerResultsLog: New page: Compilation - Aug 13, 2021, 6:47:39 AM
+[2021.08.13-14.47.39:835][156]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (W:\UdemyCourses\Unreal Engine C++\ToonTanks).
+[2021.08.13-14.47.39:835][156]CompilerResultsLog: Invalidating makefile for ToonTanksEditor (PawnTank.cpp modified)
+[2021.08.13-14.47.39:835][156]CompilerResultsLog: Building ToonTanksEditor...
+[2021.08.13-14.47.39:835][156]CompilerResultsLog: Using Visual Studio 2019 14.28.29913 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.08.13-14.47.39:835][156]CompilerResultsLog: Building 4 actions with 8 processes...
+[2021.08.13-14.47.39:835][156]CompilerResultsLog:   [1/4] PawnTank.cpp
+[2021.08.13-14.47.39:835][156]CompilerResultsLog:   [2/4] UE4Editor-ToonTanks-3156.lib
+[2021.08.13-14.47.39:835][156]CompilerResultsLog:      Creating library W:\UdemyCourses\Unreal Engine C++\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-3156.lib and object W:\UdemyCourses\Unreal Engine C++\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-3156.exp
+[2021.08.13-14.47.39:835][156]CompilerResultsLog:   [3/4] UE4Editor-ToonTanks-3156.dll
+[2021.08.13-14.47.39:835][156]CompilerResultsLog:      Creating library W:\UdemyCourses\Unreal Engine C++\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-3156.suppressed.lib and object W:\UdemyCourses\Unreal Engine C++\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-3156.suppressed.exp
+[2021.08.13-14.47.39:835][156]CompilerResultsLog:   [4/4] ToonTanksEditor.target
+[2021.08.13-14.47.39:835][156]CompilerResultsLog: Total time in Parallel executor: 1.83 seconds
+[2021.08.13-14.47.39:835][156]CompilerResultsLog: Total execution time: 3.48 seconds
+[2021.08.13-14.47.39:835][156]LogMainFrame: MainFrame: Module compiling took 3.588 seconds
+[2021.08.13-14.47.39:858][156]LogClass: Could not find existing class PawnTank in package /Script/ToonTanks for HotReload, assuming new class
+[2021.08.13-14.47.39:863][156]LogHotReload: Re-instancing PawnTank after hot-reload.
+[2021.08.13-14.47.39:869][156]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ToonTanks' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2021.08.13-14.47.39:870][156]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.08.13-14.47.39:909][156]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0072 seconds. Added 3603 classes and 862 folders.
+[2021.08.13-14.47.39:910][156]Display: HotReload took  3.7s.
+[2021.08.13-14.50.35:083][176]Candidate modules for hot reload:
+[2021.08.13-14.50.35:083][176]  ToonTanks
+[2021.08.13-14.50.35:083][176]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,343 ToonTanksEditor Win64 Development -Project="W:/UdemyCourses/Unreal Engine C++/ToonTanks/ToonTanks.uproject" "W:/UdemyCourses/Unreal Engine C++/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.08.13-14.50.35:084][176]Warning: Starting HotReload took  0.0s.
+[2021.08.13-14.50.37:205][395]CompilerResultsLog: New page: Compilation - Aug 13, 2021, 6:50:37 AM
+[2021.08.13-14.50.37:205][395]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (W:\UdemyCourses\Unreal Engine C++\ToonTanks).
+[2021.08.13-14.50.37:205][395]CompilerResultsLog: Invalidating makefile for ToonTanksEditor (PawnTank.cpp modified)
+[2021.08.13-14.50.37:205][395]CompilerResultsLog: Building ToonTanksEditor...
+[2021.08.13-14.50.37:206][395]CompilerResultsLog: Using Visual Studio 2019 14.28.29913 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.08.13-14.50.37:206][395]CompilerResultsLog: Building 4 actions with 8 processes...
+[2021.08.13-14.50.37:206][395]CompilerResultsLog:   [1/4] PawnTank.cpp
+[2021.08.13-14.50.37:206][395]CompilerResultsLog:    W:\UdemyCourses\Unreal Engine C++\ToonTanks\Source\ToonTanks\Pawns\PawnTank.cpp(40) : error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'FRotator'
+[2021.08.13-14.50.37:206][395]CompilerResultsLog:   W:\UdemyCourses\Unreal Engine C++\ToonTanks\Source\ToonTanks\Pawns\PawnTank.cpp(40): note: No constructor could take the source type, or constructor overload resolution was ambiguous
+[2021.08.13-14.50.37:206][395]LogMainFrame: MainFrame: Module compiling took 2.127 seconds
+[2021.08.13-14.50.37:206][395]Warning: HotReload failed, recompile failed
+[2021.08.13-14.50.59:233][ 26]LogSlate: Window 'Message Log' being destroyed
+[2021.08.13-14.50.59:247][ 26]LogSlate: Window 'Message Log' being destroyed
+[2021.08.13-14.53.02:412][314]Candidate modules for hot reload:
+[2021.08.13-14.53.02:412][314]  ToonTanks
+[2021.08.13-14.53.02:412][314]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,1515 ToonTanksEditor Win64 Development -Project="W:/UdemyCourses/Unreal Engine C++/ToonTanks/ToonTanks.uproject" "W:/UdemyCourses/Unreal Engine C++/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.08.13-14.53.02:414][314]Warning: Starting HotReload took  0.0s.
+[2021.08.13-14.53.05:563][658]CompilerResultsLog: New page: Compilation - Aug 13, 2021, 6:53:05 AM
+[2021.08.13-14.53.05:563][658]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (W:\UdemyCourses\Unreal Engine C++\ToonTanks).
+[2021.08.13-14.53.05:563][658]CompilerResultsLog: Invalidating makefile for ToonTanksEditor (PawnTank.cpp modified)
+[2021.08.13-14.53.05:563][658]CompilerResultsLog: Building ToonTanksEditor...
+[2021.08.13-14.53.05:563][658]CompilerResultsLog: Using Visual Studio 2019 14.28.29913 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.08.13-14.53.05:563][658]CompilerResultsLog: Building 4 actions with 8 processes...
+[2021.08.13-14.53.05:563][658]CompilerResultsLog:   [1/4] PawnTank.cpp
+[2021.08.13-14.53.05:563][658]CompilerResultsLog:   [2/4] UE4Editor-ToonTanks-1515.lib
+[2021.08.13-14.53.05:563][658]CompilerResultsLog:      Creating library W:\UdemyCourses\Unreal Engine C++\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-1515.lib and object W:\UdemyCourses\Unreal Engine C++\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-1515.exp
+[2021.08.13-14.53.05:563][658]CompilerResultsLog:   [3/4] UE4Editor-ToonTanks-1515.dll
+[2021.08.13-14.53.05:563][658]CompilerResultsLog:      Creating library W:\UdemyCourses\Unreal Engine C++\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-1515.suppressed.lib and object W:\UdemyCourses\Unreal Engine C++\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-1515.suppressed.exp
+[2021.08.13-14.53.05:563][658]CompilerResultsLog:   [4/4] ToonTanksEditor.target
+[2021.08.13-14.53.05:563][658]CompilerResultsLog: Total time in Parallel executor: 1.43 seconds
+[2021.08.13-14.53.05:563][658]CompilerResultsLog: Total execution time: 3.08 seconds
+[2021.08.13-14.53.05:563][658]LogMainFrame: MainFrame: Module compiling took 3.155 seconds
+[2021.08.13-14.53.05:584][658]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ToonTanks' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2021.08.13-14.53.05:586][658]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.08.13-14.53.05:611][658]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0076 seconds. Added 3603 classes and 862 folders.
+[2021.08.13-14.53.05:611][658]Display: HotReload took  3.2s.
