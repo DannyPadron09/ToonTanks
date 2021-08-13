@@ -927,3 +927,26 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.13-14.53.05:586][658]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
 [2021.08.13-14.53.05:611][658]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0076 seconds. Added 3603 classes and 862 folders.
 [2021.08.13-14.53.05:611][658]Display: HotReload took  3.2s.
+[2021.08.13-14.54.32:527][420]Candidate modules for hot reload:
+[2021.08.13-14.54.32:527][420]  ToonTanks
+[2021.08.13-14.54.32:527][420]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,6440 ToonTanksEditor Win64 Development -Project="W:/UdemyCourses/Unreal Engine C++/ToonTanks/ToonTanks.uproject" "W:/UdemyCourses/Unreal Engine C++/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.08.13-14.54.32:529][420]Warning: Starting HotReload took  0.0s.
+[2021.08.13-14.54.35:834][741]CompilerResultsLog: New page: Compilation - Aug 13, 2021, 6:54:35 AM
+[2021.08.13-14.54.35:834][741]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (W:\UdemyCourses\Unreal Engine C++\ToonTanks).
+[2021.08.13-14.54.35:834][741]CompilerResultsLog: Invalidating makefile for ToonTanksEditor (PawnTank.cpp modified)
+[2021.08.13-14.54.35:834][741]CompilerResultsLog: Building ToonTanksEditor...
+[2021.08.13-14.54.35:834][741]CompilerResultsLog: Using Visual Studio 2019 14.28.29913 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.08.13-14.54.35:834][741]CompilerResultsLog: Building 4 actions with 8 processes...
+[2021.08.13-14.54.35:834][741]CompilerResultsLog:   [1/4] PawnTank.cpp
+[2021.08.13-14.54.35:834][741]CompilerResultsLog:   [2/4] UE4Editor-ToonTanks-6440.lib
+[2021.08.13-14.54.35:834][741]CompilerResultsLog:      Creating library W:\UdemyCourses\Unreal Engine C++\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-6440.lib and object W:\UdemyCourses\Unreal Engine C++\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-6440.exp
+[2021.08.13-14.54.35:834][741]CompilerResultsLog:   [3/4] UE4Editor-ToonTanks-6440.dll
+[2021.08.13-14.54.35:834][741]CompilerResultsLog:      Creating library W:\UdemyCourses\Unreal Engine C++\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-6440.suppressed.lib and object W:\UdemyCourses\Unreal Engine C++\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-6440.suppressed.exp
+[2021.08.13-14.54.35:834][741]CompilerResultsLog:   [4/4] ToonTanksEditor.target
+[2021.08.13-14.54.35:834][741]CompilerResultsLog: Total time in Parallel executor: 1.49 seconds
+[2021.08.13-14.54.35:834][741]CompilerResultsLog: Total execution time: 3.24 seconds
+[2021.08.13-14.54.35:834][741]LogMainFrame: MainFrame: Module compiling took 3.309 seconds
+[2021.08.13-14.54.35:853][741]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ToonTanks' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2021.08.13-14.54.35:854][741]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.08.13-14.54.35:879][741]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0073 seconds. Added 3603 classes and 862 folders.
+[2021.08.13-14.54.35:879][741]Display: HotReload took  3.4s.
