@@ -18,7 +18,20 @@ APawnTank::APawnTank()
 void APawnTank::BeginPlay()
 {
 	Super::BeginPlay();
+
+// Called every frame
+void APawnTank::Tick(float DeltaTime)
+{
+	Super::Tick(DeltaTime);
+}
 	
+}
+// Called to bind functionality to input
+void APawnTank::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
+{
+	Super::SetupPlayerInputComponent(PlayerInputComponent);
+    PlayerInputComponent->BindAxis("MoveForware", this, &APawnTank::CalculateMoveInput);
+    PlayerInputComponent->BindAxis("Turn", this, &APawnTank::CalculateRotateInput);
 }
 
 void APawnTank::CalculateMoveInput(float Value) 
@@ -41,17 +54,4 @@ void APawnTank::Rotate()
     
 }
 
-// Called every frame
-void APawnTank::Tick(float DeltaTime)
-{
-	Super::Tick(DeltaTime);
-
-}
-
-// Called to bind functionality to input
-void APawnTank::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
-{
-	Super::SetupPlayerInputComponent(PlayerInputComponent);
-
-}
 
