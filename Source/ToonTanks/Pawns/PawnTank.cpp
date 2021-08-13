@@ -21,6 +21,26 @@ void APawnTank::BeginPlay()
 	
 }
 
+void APawnTank::CalculateMoveInput(float Value) 
+{
+    
+}
+
+void APawnTank::CalculateRotateInput(float Value) 
+{
+    
+}
+
+void APawnTank::Move() 
+{
+    
+}
+
+void APawnTank::Rotate() 
+{
+    
+}
+
 // Called every frame
 void APawnTank::Tick(float DeltaTime)
 {

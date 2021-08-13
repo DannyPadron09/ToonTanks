@@ -42,5 +42,10 @@ private:
 
 	FQuat RotationDirection;
 
-	
+	void CalculateMoveInput(float Value);
+
+	void CalculateRotateInput(float Value);
+
+	void Move();
+	void Rotate();
 };
