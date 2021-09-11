@@ -1012,3 +1012,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.11-17.07.34:697][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.09.11-17.07.34:699][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
 [2021.09.11-17.07.34:738][319]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.09.11-17.09.22:832][626]Running C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="W:/UdemyCourses/Unreal Engine C++/ToonTanks/ToonTanks.uproject" -game -rocket -progress
+[2021.09.11-17.09.23:135][626]Discovering modules, targets and source code for project...
+[2021.09.11-17.09.24:145][626]Binding IntelliSense data...
+[2021.09.11-17.09.26:376][626]Binding IntelliSense data... 100%
+[2021.09.11-17.09.26:376][626]Writing project files...
+[2021.09.11-17.09.26:881][626]Writing project files... 100%
