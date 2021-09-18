@@ -18,9 +18,9 @@ APawnTank::APawnTank()
 void APawnTank::BeginPlay()
 {
 	Super::BeginPlay();
-
-	
 }
+
+
 // Called to bind functionality to input
 void APawnTank::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 {

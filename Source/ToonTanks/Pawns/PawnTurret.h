@@ -15,10 +15,14 @@ class TOONTANKS_API APawnTurret : public APawnBase
 	GENERATED_BODY()
 
 	public:
+		// Called every frame
+		virtual void Tick(float DeltaTime) override;
 
 	protected:
+		// Called when the game starts or when spawned
+		virtual void BeginPlay() override;
 
 	private:
-	
+
 	
 };
