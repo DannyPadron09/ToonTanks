@@ -13,5 +13,12 @@ UCLASS()
 class TOONTANKS_API APawnTurret : public APawnBase
 {
 	GENERATED_BODY()
+
+	public:
+
+	protected:
+
+	private:
+	
 	
 };
